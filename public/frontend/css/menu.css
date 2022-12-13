@@ -1,0 +1,44 @@
+.icon_box_ten {
+    background-color: transparent;
+    padding: 0;
+    margin: 25px 0;
+    position: relative;
+    overflow: hidden;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out
+  }
+  
+  .icon_box_ten .content {
+    margin-top: 0;
+    padding: 10px 25px 25px
+  }
+  
+  .icon_box_ten .content h4 {
+    color: white;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  
+  .icon_box_ten li{
+    list-style-type: none;
+    font-size: 15px;
+    text-align: center;
+  }
+  
+  .T-img img{
+        padding-top: 30px;
+         padding-bottom: 30px;
+  }
+  #T4 span{
+       color:red;
+  }
+  .section_title h3{
+        font-size: 60px;
+        font-family: 'Times New Roman', Times, serif;
+  }
+  
