@@ -17,6 +17,9 @@
     <link rel="stylesheet" href="{{ url('frontend/css/Event.css') }}" />
     <link rel="shortcut icon" href="{{ url('frontend/img/logo.png') }}" />
 
+    <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+
+
 <body>
 
     <header class="header navbar fixed-top navbar-expand-md">

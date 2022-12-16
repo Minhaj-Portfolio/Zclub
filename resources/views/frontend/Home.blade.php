@@ -9,11 +9,11 @@
                         <div class="container">
                             <div class="slider-content-center">
                                 <h2 class="cover-title">
-                                    Prepare yourself for the
+                                    Prepare yourself to party at
                                 </h2>
-                                <strong class="cover-xl-text">Latest Event</strong>
+                                <strong class="cover-xl-text">No.1 Desi Nightclub</strong>
                                 <p class="cover-date">
-                                    12-14 February 2018 - Los Angeles, CA.
+                                    In Houston, Texas
                                 </p>
                                 <a href="{{ url('/contact') }}" class=" btn btn-primary btn-rounded">
                                     Grab Your Tickets
@@ -29,11 +29,11 @@
                         <div class="container">
                             <div class="slider-content-center">
                                 <h2 class="cover-title">
-                                    Prepare yourself for the
+                                    Prepare yourself to party at
                                 </h2>
-                                <strong class="cover-xl-text">Latest Event</strong>
+                                <strong class="cover-xl-text">No.1 Desi Nightclub</strong>
                                 <p class="cover-date">
-                                    12-14 February 2018 - Los Angeles, CA.
+                                    In Houston, Texas
                                 </p>
                                 <a href="#" class=" btn btn-primary btn-rounded">
                                     Grab Your Tickets
@@ -52,15 +52,16 @@
         <div class="container">
             <div class="section_title">
                 <h3 class="title">
-                    About the event
+                    about the Club Z
                 </h3>
             </div>
             <div class="row justify-content-center">
                 <div class="col-12 col-md-6">
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing eli. Integer iaculis in lacus a sollicitudin. Ut
-                        hendrerit hendrerit nisl a accumsan. Pellentesque convallis consectetur tortor id placerat.
-                        Curabitur a pulvinar nunc. Maecenas laoreet finibus lectus, at volutpat ligula euismod.
+                        Juice up your nights at your favourite crib Club Z as it's Houston's No.1 Desi Nightclub, bringing
+                        distinctive Bollywood parties to town showcasing top-notch celebrity artists. Also, we spotlight the
+                        best DJs from all around the world, who energize the audience with their unstoppable beats and mixed
+                        music genres. Forever go-to place to find ecstasy in a city like Houston.
                     </p>
                 </div>
                 <div class="col-12 col-md-6">

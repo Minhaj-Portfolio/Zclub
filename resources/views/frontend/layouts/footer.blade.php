@@ -3,20 +3,20 @@
         <div class="row justify-content-center">
             <div class="col-6 col-md-3  ">
                 <div class="icon_box_two">
-                    <i class="ion-ios-calendar-outline"></i>
+                    <i class="lnr lnr-phone-handset"></i>
                     <div class="content">
                         <h5 class="box_title">
-                            DATE
+                            Phone
                         </h5>
                         <p>
-                            12-14 february 2018
+                            3456789999
                         </p>
                     </div>
                 </div>
             </div>
             <div class="col-6 col-md-3  ">
                 <div class="icon_box_two">
-                    <i class="ion-ios-location-outline"></i>
+                    <i class="lnr lnr-map-marker"></i>
                     <div class="content">
                         <h5 class="box_title">
                             location
@@ -29,27 +29,26 @@
             </div>
             <div class="col-6 col-md-3  ">
                 <div class="icon_box_two">
-                    <i class="ion-ios-person-outline"></i>
+                    <i class="lnr lnr-envelope"></i>
                     <div class="content">
                         <h5 class="box_title">
-                            speakers
+                            Email
                         </h5>
                         <p>
-                            Natalie James
-                            + guests
+                            info@clubzhouston.com
                         </p>
                     </div>
                 </div>
             </div>
             <div class="col-6 col-md-3  ">
                 <div class="icon_box_two">
-                    <i class="ion-ios-pricetag-outline"></i>
+                    <i class="lnr lnr-clock"></i>
                     <div class="content">
                         <h5 class="box_title">
-                            tikets
+                            Opening Hours
                         </h5>
                         <p>
-                            $65 early bird
+                            09:00 PM - 02:00 AM
                         </p>
                     </div>
                 </div>
@@ -57,10 +56,11 @@
         </div>
     </div>
 </section>
+
 <footer>
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-4 col-12">
+            <div class="col-md-6 col-12">
                 <div class="footer_box">
                     <div class="footer_header">
                         <div class="footer_logo">
@@ -75,25 +75,26 @@
                         </p>
                         <ul class="footer_social">
                             <li>
-                                <a href="#"><i class="ion-social-pinterest"></i></a>
+                                <a href="https://pin.it/4QloUQ6"><i class="ion-social-pinterest"></i></a>
                             </li>
                             <li>
-                                <a href="#"><i class="ion-social-facebook"></i></a>
+                                <a href="https://www.facebook.com/clubzhouston/"><i class="ion-social-facebook"></i></a>
                             </li>
                             <li>
-                                <a href="#"><i class="ion-social-twitter"></i></a>
+                                <a href=""><i class="ion-social-twitter"></i></a>
                             </li>
                             <li>
-                                <a href="#"><i class="ion-social-dribbble"></i></a>
+                                <a href="https://youtube.com/@clubzhouston"><i class="lnr lnr-film-play"></i></a>
                             </li>
                             <li>
-                                <a href="#"><i class="ion-social-instagram"></i></a>
+                                <a href="https://instagram.com/clubz.houston?igshid=YmMyMTA2M2Y="><i
+                                        class="ion-social-instagram"></i></a>
                             </li>
                         </ul>
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-md-4">
+            <div class="col-12 col-md-6">
                 <div class="footer_box">
                     <div class="footer_header">
                         <h4 class="footer_title">
@@ -133,21 +134,6 @@
                                 </a>
                             </li>
                         </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-4">
-                <div class="footer_box">
-                    <div class="footer_header">
-                        <h4 class="footer_title">
-                            subscribe to our newsletter
-                        </h4>
-                    </div>
-                    <div class="footer_box_body">
-                        <div class="newsletter_form">
-                            <input type="email" class="form-control" placeholder="E-Mail here">
-                            <button class="btn btn-rounded btn-block btn-primary">SUBSCRIBE</button>
-                        </div>
                     </div>
                 </div>
             </div>
