@@ -6,11 +6,11 @@ use App\Http\Controllers\Frontend\GalleryController;
 use App\Http\Controllers\Frontend\HomeController;
 use App\Http\Controllers\Frontend\MenuController;
 use App\Http\Controllers\Frontend\ReservationController;
-use App\Http\Controllers\RouteController;
 use App\Models\reservation;
 use Illuminate\Support\Facades\Route;
 use PhpParser\Node\Expr\AssignOp\Concat;
 use PhpParser\Node\Expr\PostDec;
+
 
 /*
 |--------------------------------------------------------------------------

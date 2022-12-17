@@ -59,16 +59,14 @@
                 <div class="col-12 col-md-6">
                     <p>
                         Juice up your nights at your favourite crib Club Z as it's Houston's No.1 Desi Nightclub, bringing
-                        distinctive Bollywood parties to town showcasing top-notch celebrity artists. Also, we spotlight the
-                        best DJs from all around the world, who energize the audience with their unstoppable beats and mixed
-                        music genres. Forever go-to place to find ecstasy in a city like Houston.
+                        distinctive Bollywood parties to town showcasing top-notch celebrity artists.
                     </p>
                 </div>
                 <div class="col-12 col-md-6">
                     <p>
-                        In rhoncus massa nec sollicitudin. Ut hendrerit hendrerit nisl a accumsan. Pellentesque convallis
-                        consectetur tortor id placerat. Curabitur a pulvinar nunc. Maecenas laoreet finibus lectus, at
-                        volutpat ligula euismod quis. Maecenas ornare, ex in malesuada tempus.
+                        Also, we spotlight the
+                        best DJs from all around the world, who energize the audience with their unstoppable beats and mixed
+                        music genres. Forever go-to place to find ecstasy in a city like Houston.
                     </p>
                 </div>
             </div>
@@ -77,25 +75,23 @@
             <div class="row justify-content-center mt30">
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="icon_box_one">
-                        <i class="lnr lnr-mic"></i>
+                        <i class="fas fa-cocktail"></i>
                         <div class="content">
-                            <h4>9 Speakers</h4>
+                            <h4></b>BIRTHDAY PARTIES</b></h4>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus massa nec graviante.
+                                We organize Birthday party as per our consumer reservation requests.
                             </p>
-                            <a href="#">read more</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="icon_box_one">
-                        <i class="lnr lnr-rocket"></i>
+                        <i class="fa-solid fa-music"></i>
                         <div class="content">
-                            <h4>8 hrs Marathon</h4>
+                            <h4><b>DANCE FLOOR</b></h4>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus massa nec graviante.
+                                Party dance and event dance are being organized at the dance floor.
                             </p>
-                            <a href="#">read more</a>
                         </div>
                     </div>
                 </div>
@@ -103,11 +99,10 @@
                     <div class="icon_box_one">
                         <i class="lnr lnr-bullhorn"></i>
                         <div class="content">
-                            <h4>Live Broadcast</h4>
+                            <h4><b>LOUNGE AREA</b></h4>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus massa nec graviante.
+                                You can get anything from the lounge area and order from here in event time.
                             </p>
-                            <a href="#">read more</a>
                         </div>
                     </div>
                 </div>
@@ -115,11 +110,10 @@
                     <div class="icon_box_one">
                         <i class="lnr lnr-clock"></i>
                         <div class="content">
-                            <h4>Early Bird</h4>
+                            <h4><b>SMOKE</b></h4>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus massa nec graviante.
+                                Smoke are also available to our club. We recommend a specific area.
                             </p>
-                            <a href="#">read more</a>
                         </div>
                     </div>
                 </div>
@@ -139,16 +133,11 @@
         <div class="nine columns">
             <div class="coverflow top10 bot10">
                 <a class="prev-arrow"></a>
-                <a href=""><img src="{{ url('frontend/img/cleander/xc1.png.pagespeed.ic.JiI-ZKujy8.jpg') }}"
-                        class="coverflow__image" /></a>
-                <a href=""><img src="{{ url('frontend/img/cleander/xc1.png.pagespeed.ic.JiI-ZKujy8.jpg') }}"
-                        class="coverflow__image" /></a>
-                <a href=""><img src="{{ url('frontend/img/cleander/xc1.png.pagespeed.ic.JiI-ZKujy8.jpg') }}"
-                        class="coverflow__image" /></a>
-                <a href=""><img src="{{ url('frontend/img/cleander/xc1.png.pagespeed.ic.JiI-ZKujy8.jpg') }}"
-                        class="coverflow__image" /></a>
-                <a href=""><img src="{{ url('frontend/img/cleander/xc1.png.pagespeed.ic.JiI-ZKujy8.jpg') }}"
-                        class="coverflow__image" /></a>
+                <a href=""><img src="{{ url('frontend/img/Events/W1.png') }}" class="coverflow__image" /></a>
+                <a href=""><img src="{{ url('frontend/img/Events/G1.png') }}" class="coverflow__image" /></a>
+                <a href=""><img src="{{ url('frontend/img/Events/latest.png') }}" class="coverflow__image" /></a>
+                <a href=""><img src="{{ url('frontend/img/Events/C1.png') }}" class="coverflow__image" /></a>
+                <a href=""><img src="{{ url('frontend/img/Events/Ct1.png') }}" class="coverflow__image" /></a>
                 <a class="next-arrow"></a>
             </div>
         </div>

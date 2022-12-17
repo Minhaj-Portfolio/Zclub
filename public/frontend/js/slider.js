@@ -5,15 +5,15 @@
 var a = document.getElementsByTagName("a");
 var cfImg = document.getElementsByClassName("coverflow__image")
 
-var scaleI = 0;
-for (scaleI; scaleI < a.length; scaleI++) {
-  if (scaleI === 3) {
-    continue;
-  } else {
-    a[scaleI].style.cursor = "default";
-    a[scaleI].addEventListener("click", prevDef);
-  }
-}
+// var scaleI = 0;
+// for (scaleI; scaleI < a.length; scaleI++) {
+//   if (scaleI === 3) {
+//     continue;
+//   } else {
+//     a[scaleI].style.cursor = "default";
+//     a[scaleI].addEventListener("click", prevDef);
+//   }
+// }
 
 function prevDef(e) {
   e.preventDefault();

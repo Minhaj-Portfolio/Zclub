@@ -14,7 +14,7 @@ class ContactController extends Controller
 {
     public function index()
     {
-        return view('frontend.Contact');
+        return view("frontend.contact");
     }
     public function send(Request $request)
     {

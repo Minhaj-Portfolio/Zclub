@@ -7,14 +7,14 @@
     -webkit-transition: all .4s ease-in-out;
     transition: all .4s ease-in-out
   }
-  
+
   .icon_box_ten .content {
     margin-top: 0;
     padding: 10px 25px 25px
   }
-  
+
   .icon_box_ten .content h4 {
-    color: white;
+    color: fbdd9e;
     margin-bottom: 15px;
     text-transform: capitalize;
     -webkit-transition: all .4s ease-in-out;
@@ -22,14 +22,16 @@
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
   }
-  
-  
+
+
   .icon_box_ten li{
     list-style-type: none;
     font-size: 15px;
-    text-align: center;
+    text-align: left;
   }
-  
+
+
+
   .T-img img{
         padding-top: 30px;
          padding-bottom: 30px;
@@ -38,7 +40,8 @@
        color:red;
   }
   .section_title h3{
-        font-size: 60px;
+        font-size: 40px;
         font-family: 'Times New Roman', Times, serif;
+        color: fbdd9e;
   }
-  
+

@@ -1,6 +1,25 @@
 @extends('frontend.layouts.main')
 
 @section('main-container')
+    <section id="home" class="home-cover">
+        <div class="cover_slider owl-carousel owl-theme">
+            <div class="cover_item"
+                style="background: url('frontend/img/bg/slider.png'); background-attachment: fixed; height:0px;">
+                <div class="slider_content">
+                    <div class="slider-content-inner">
+                        <div class="container">
+                            <div class="slider-content-center">
+                                <h2 class="cover-title">
+                                    <b> CONTACT US </b>
+                                </h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <div class="container" id="pt222">
         <div class="section_title">
             <h3 class="title">

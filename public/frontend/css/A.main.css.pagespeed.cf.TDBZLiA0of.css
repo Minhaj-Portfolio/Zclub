@@ -214,31 +214,6 @@ a:active {
   display: inline-block
 }
 
-blockquote {
-  padding: 75px 25px 25px;
-  font-size: 20px;
-  text-align: center;
-  margin: 25px 50px
-}
-
-blockquote:before {
-  content: open-quote;
-  display: block;
-  font-size: 134px;
-  font-family: Georgia, Verdana, Roboto, serif;
-  line-height: .2;
-  padding: 0;
-  opacity: .2;
-  font-weight: 600;
-  margin: 0
-}
-
-blockquote p {
-  font-size: 18px;
-  text-transform: capitalize;
-  font-weight: 400;
-  font-style: italic
-}
 
 strong {
   font-weight: 700
@@ -428,7 +403,7 @@ header {
 }
 
 header .menu {
-  position: relative
+  position: relative;
 }
 
 header .logo {
@@ -754,6 +729,7 @@ footer .newsletter_form .form-control {
   background-repeat: no-repeat !important;
 }
 
+
 .cover_slider .cover_item .slider_content {
   display: table;
   background-color: rgba(0, 0, 0, .2);
@@ -1068,7 +1044,7 @@ footer .newsletter_form .form-control {
 }
 
 .icon_box_one {
-  background-color: #f0f2f6;
+  background-color: #000;
   padding: 0;
   margin: 25px 0;
   position: relative;
@@ -1103,7 +1079,9 @@ footer .newsletter_form .form-control {
   margin-bottom: 15px;
   text-transform: capitalize;
   -webkit-transition: all .4s ease-in-out;
-  transition: all .4s ease-in-out
+  transition: all .4s ease-in-out;
+  font-size: 20px;
+  text-align: center;
 }
 
 .icon_box_one .content a {
@@ -1117,7 +1095,8 @@ footer .newsletter_form .form-control {
 
 .icon_box_one .content p {
   -webkit-transition: all .4s ease-in-out;
-  transition: all .4s ease-in-out
+  transition: all .4s ease-in-out;
+  text-align:center;
 }
 
 .icon_box_one:hover {
