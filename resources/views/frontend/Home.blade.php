@@ -77,7 +77,7 @@
                     <div class="icon_box_one">
                         <i class="fas fa-cocktail"></i>
                         <div class="content">
-                            <h4></b>BIRTHDAY PARTIES</b></h4>
+                            <h4><b>BIRTHDAY PARTIES</b></h4>
                             <p>
                                 We organize Birthday party as per our consumer reservation requests.
                             </p>

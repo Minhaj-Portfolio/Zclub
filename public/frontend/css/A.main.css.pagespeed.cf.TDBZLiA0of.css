@@ -1074,13 +1074,13 @@ footer .newsletter_form .form-control {
   padding: 10px 25px 25px
 }
 
-.icon_box_one .content h4 {
+.icon_box_one .content h4{
   color: #18181c;
   margin-bottom: 15px;
   text-transform: capitalize;
   -webkit-transition: all .4s ease-in-out;
   transition: all .4s ease-in-out;
-  font-size: 20px;
+  font-size: 16px;
   text-align: center;
 }
 

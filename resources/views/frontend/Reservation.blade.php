@@ -111,12 +111,6 @@
                     <label for="lname">Number</label>
                     <input type="text" id="number" name="number" placeholder="000000....">
 
-                    <label for="Gender">Gender</label>
-                    <select id="Gender" name="gender">
-                        <option value="m">Male</option>
-                        <option value="f">Female</option>
-                        <option value="o">Other</option>
-                    </select>
                     <input type="submit" value="Submit">
                 </form>
             </div>
