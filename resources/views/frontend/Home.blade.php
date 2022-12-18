@@ -15,7 +15,7 @@
                                 <p class="cover-date">
                                     In Houston, Texas
                                 </p>
-                                <a href="{{ url('/contact') }}" class=" btn btn-primary btn-rounded">
+                                <a href="{{ url('/Reservation') }}" class=" btn btn-primary btn-rounded">
                                     Grab Your Tickets
                                 </a>
                             </div>
@@ -35,7 +35,7 @@
                                 <p class="cover-date">
                                     In Houston, Texas
                                 </p>
-                                <a href="#" class=" btn btn-primary btn-rounded">
+                                <a href="/Reservation" class=" btn btn-primary btn-rounded">
                                     Grab Your Tickets
                                 </a>
                             </div>
@@ -97,7 +97,7 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="icon_box_one">
-                        <i class="lnr lnr-bullhorn"></i>
+                        <i class="fa-solid fa-cake-candles"></i>
                         <div class="content">
                             <h4><b>LOUNGE AREA</b></h4>
                             <p>
@@ -108,7 +108,7 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="icon_box_one">
-                        <i class="lnr lnr-clock"></i>
+                        <i class="fas fa-smoking"></i>
                         <div class="content">
                             <h4><b>SMOKE</b></h4>
                             <p>
@@ -127,7 +127,7 @@
     <div class="container">
         <div class="section_title">
             <h3 class="title">
-                Gallery
+                UPCOMING EVENT
             </h3>
         </div>
         <div class="nine columns">

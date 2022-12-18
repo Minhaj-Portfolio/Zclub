@@ -4,14 +4,16 @@
     <section id="home" class="home-cover">
         <div class="cover_slider owl-carousel owl-theme">
             <div class="cover_item"
-                style="background: url('frontend/img/bg/slider.png'); background-attachment: fixed; height:0px;">
+                style="background: url('frontend/img/post-bg.jpg'); background-attachment: fixed; height:0px;">
                 <div class="slider_content">
                     <div class="slider-content-inner">
                         <div class="container">
                             <div class="slider-content-center">
+                                <p style="color:white;font-size:15px;letter-spacing: 6.5px;">JOIN US AND LET'S HAVE FUN!</p>
                                 <h2 class="cover-title">
-                                    <b>RESERVATION</b>
+                                    <b> Reservation </b>
                                 </h2>
+                                <h3 style="font-style: italic;"><b>Or RSVP</b></h3>
                             </div>
                         </div>
                     </div>
@@ -122,8 +124,8 @@
                 <div class="mapouter">
                     <div class="gmap_canvas"><iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0"
                             marginwidth="0"
-                            src="https://maps.google.com/maps?width=600&amp;height=600&amp;hl=en&amp;q=University of Oxford&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a
-                            href="https://piratebay-proxys.com/">Piratebay</a></div>
+                            src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Los Angeles, CA&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a
+                            href="https://mcpedls.com/"></a></div>
                     <style>
                         .mapouter {
                             position: relative;

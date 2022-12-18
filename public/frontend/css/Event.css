@@ -36,3 +36,24 @@
   color: white;
   transform: rotateY(180deg);
 }
+
+.flip-box-back h5{
+   font-size: 20px;
+   padding-top: 10px;
+  }
+
+  .flip-box-back p{
+    color: black;
+    font-weight: bold;
+   }
+   .flip-box-back button{
+    background-color: red;
+             color: white;
+             font-weight: bold;
+             font-size: 18px;
+             padding: 10px;
+             padding-left: 20px;
+             padding-right: 20px;
+             border-radius: 20px;
+
+   }

@@ -14,7 +14,7 @@
   }
 
   .icon_box_ten .content h4 {
-    color: fbdd9e;
+    color: #fbdd9e;
     margin-bottom: 15px;
     text-transform: capitalize;
     -webkit-transition: all .4s ease-in-out;
@@ -39,9 +39,9 @@
   #T4 span{
        color:red;
   }
-  .section_title h3{
+  .color h3{
         font-size: 40px;
         font-family: 'Times New Roman', Times, serif;
-        color: fbdd9e;
+        color: #fbdd9e;
   }
 

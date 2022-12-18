@@ -4,14 +4,16 @@
     <section id="home" class="home-cover">
         <div class="cover_slider owl-carousel owl-theme">
             <div class="cover_item"
-                style="background: url('frontend/img/bg/slider.png'); background-attachment: fixed; height:0px;">
+                style="background: url('frontend/img/post-bg.jpg'); background-attachment: fixed; height:0px;">
                 <div class="slider_content">
                     <div class="slider-content-inner">
                         <div class="container">
                             <div class="slider-content-center">
+                                <p style="color:white;font-size:15px;letter-spacing: 6.5px;">COME & CHILL TOGETHER</p>
                                 <h2 class="cover-title">
-                                    <b>MENU</b>
+                                    <b> Our </b>
                                 </h2>
+                                <h3 style="font-style: italic;"><b>Drinks</b></h3>
                             </div>
                         </div>
                     </div>
@@ -25,7 +27,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <div class="T-img"> <img src="{{ url('frontend/img/Spirit.png') }}" alt="error"> </div>
-                <div class="section_title">
+                <div class="section_title color">
                     <h3>
                         SPIRIT
                     </h3>
@@ -176,7 +178,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <div class="section_title">
+                <div class="section_title color">
                     <h3>
                         CHAMPAGNE
                     </h3>
@@ -229,7 +231,7 @@
     <div class="container">
         <div class="row" id="T4">
             <div class="col-md-12 text-center">
-                <div class="section_title">
+                <div class="section_title color">
                     <h3>
                         BOTTLE SERVICE
                     </h3>

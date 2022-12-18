@@ -4,14 +4,16 @@
     <section id="home" class="home-cover">
         <div class="cover_slider owl-carousel owl-theme">
             <div class="cover_item"
-                style="background: url('frontend/img/bg/slider.png'); background-attachment: fixed; height:0px;">
+                style="background: url('frontend/img/post-bg.jpg'); background-attachment: fixed; height:0px;">
                 <div class="slider_content">
                     <div class="slider-content-inner">
                         <div class="container">
                             <div class="slider-content-center">
+                                <p style="color:white;font-size:15px;letter-spacing: 6.5px;">JOIN US IN OUR FUTURE EVENTS</p>
                                 <h2 class="cover-title">
-                                    <b> EVENTS </b>
+                                    <b> Our </b>
                                 </h2>
+                                <h3 style="font-style: italic;"><b>Upcoming Events</b></h3>
                             </div>
                         </div>
                     </div>
@@ -30,9 +32,11 @@
                                 style="width:300px;height:200px">
                         </div>
                         <div class="flip-box-back">
-                            <h2>CHRISTMAS</h2>
-                            <p>Event</p>
-                            <button>Booked</button>
+                            <h5>CHRISTMAS</h5>
+                            <p>23 DEC 2022 </p>
+                            <p> DJ Anup, DJ Nish </p>
+                            <p> Bollywood Christmas Bash </p>
+                            <a href="{{ url('/Reservation') }}"><button>View Event</button></a>
                         </div>
                     </div>
                 </div>
@@ -51,8 +55,9 @@
                                 style="width:300px;height:200px">
                         </div>
                         <div class="flip-box-back">
-                            <h2>ALL WHITE</h2>
-                            <p>Dress to impress</p>
+                            <h5>ALL WHITE</h5>
+                            <p> 09 DEC 2021 </p>
+                            <p> All-White Bollywood Party</p>
                         </div>
                     </div>
                 </div>
@@ -65,8 +70,10 @@
                                 style="width:300px;height:200px">
                         </div>
                         <div class="flip-box-back">
-                            <h2>AP DILLON</h2>
-                            <p>After party</p>
+                            <h5>AP DILLON</h5>
+                            <p>14 OCT 2022 </p>
+                            <p> AP Dhillon
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -79,7 +86,7 @@
                                 style="width:300px;height:200px">
                         </div>
                         <div class="flip-box-back">
-                            <h2>BOLLYWOOD MASS</h2>
+                            <h5>BOLLYWOOD MASS</h5>
                             <p>Masquerade Party</p>
                         </div>
                     </div>
@@ -96,8 +103,11 @@
                                 style="width:300px;height:200px">
                         </div>
                         <div class="flip-box-back">
-                            <h2>BOLLYWOOD RETRO</h2>
-                            <p>Desi Night Party</p>
+                            <h5>BOLLYWOOD RETRO</h5>
+                            <p>11 NOV 2022 </p>
+                            <p> DJ Anup, DJ Sandeep Sulhan </p>
+                            <p> Bollywood Retro
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -110,8 +120,10 @@
                                 style="width:300px;height:200px">
                         </div>
                         <div class="flip-box-back">
-                            <h2>CHEATAS</h2>
-                            <p>Fusion Group Games</p>
+                            <h5>CHEATAS</h5>
+                            <p>28 OCT 2022 </p>
+                            <p> Chetas
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -124,8 +136,10 @@
                                 style="width:300px;height:200px">
                         </div>
                         <div class="flip-box-back">
-                            <h2>COSTUME</h2>
-                            <p>Win $1000 Giveaway</p>
+                            <h5>COSTUME</h5>
+                            <p>07 OCT 2022 </p>
+                            <p> Bollywood Celebrities Costume Party
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -140,8 +154,10 @@
                                 style="width:300px;height:200px">
                         </div>
                         <div class="flip-box-back">
-                            <h2>THANKS GIVING</h2>
-                            <p>Giving</p>
+                            <h5>THANKS GIVING</h5>
+                            <p>25 NOV 2022 </p>
+                            <p> Bollywood Thanksgiving Party
+                            </p>
                         </div>
                     </div>
                 </div>

@@ -4,14 +4,16 @@
     <section id="home" class="home-cover">
         <div class="cover_slider owl-carousel owl-theme">
             <div class="cover_item"
-                style="background: url('frontend/img/bg/slider.png'); background-attachment: fixed; height:0px;">
+                style="background: url('frontend/img/post-bg.jpg'); background-attachment: fixed; height:0px;">
                 <div class="slider_content">
                     <div class="slider-content-inner">
                         <div class="container">
                             <div class="slider-content-center">
+                                <p style="color:white;font-size:15px;letter-spacing: 6.5px;">LET’S HAVE SOME TALK</p>
                                 <h2 class="cover-title">
-                                    <b>GALLERY</b>
+                                    <b> Our </b>
                                 </h2>
+                                <h3 style="font-style: italic;"><b>Gallery</b></h3>
                             </div>
                         </div>
                     </div>
