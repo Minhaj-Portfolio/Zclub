@@ -32,3 +32,13 @@ Route::get('/Contact', [ContactController::class, "index"]);
 Route::POST('/Contact', [ContactController::class, "send"]);
 Route::get('/Reservation', [ReservationController::class, "index"]);
 Route::POST('/Reservation', [ReservationController::class, "store"]);
+
+//  Gallery sub pages routes
+Route::get('/A', [GalleryController::class, "one"]);
+Route::get('/B', [GalleryController::class, 'two']);
+Route::get('/G', [GalleryController::class, 'three']);
+Route::get('/I', [GalleryController::class, 'four']);
+Route::get('/M', [GalleryController::class, 'five']);
+Route::get('/K', [GalleryController::class, 'six']);
+Route::get('/C', [GalleryController::class, 'seven']);
+Route::get('/R', [GalleryController::class, 'eight']);

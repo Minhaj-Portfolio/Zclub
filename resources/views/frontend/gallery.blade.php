@@ -23,20 +23,136 @@
     </section>
     <div class="container" id="pt222">
         <div class="section_title">
-            <div class="title">
-                <a href="{{ url('/gallery') }}">Gallery </a>
+            <h3 class="title">
+                <a href="{{ url('/Gallery') }}">GALLERY</a>
+            </h3>
+        </div>
+        {{-- first of 3 --}}
+        <div class="row">
+            <div class="col-lg-4 center" id="pt222">
+                <div class="flip-box">
+                    <div class="flip-box-inner">
+
+                        <a href="{{ url('/A') }}"> <img src="{{ url('frontend/img/Gallery/Ali/1.jpg') }}" alt="No Event"
+                                style="width:300px;height:200px"> </a>
+
+                        <div class="flip-box-back">
+                            <p> see the album</p>
+                            <a href="{{ url('/A') }}"><button> See album </button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 center" id="pt222">
+                <div class="flip-box">
+                    <div class="flip-box-inner">
+
+                        <a href="{{ url('/B') }}"> <img src="{{ url('frontend/img/Gallery/Bohemia/1.jpg') }}"
+                                alt="No Event" style="width:300px;height:200px"> </a>
+
+                        <div class="flip-box-back">
+                            <p> see the album</p>
+                            <a href="{{ url('/B') }}"><button> See album </button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 center" id="pt222">
+                <div class="flip-box">
+                    <div class="flip-box-inner">
+
+                        <a href="{{ url('/G') }}"> <img src="{{ url('frontend/img/Gallery/Guru/1.jpg') }}"
+                                alt="No Event" style="width:300px;height:200px"> </a>
+
+                        <div class="flip-box-back">
+                            <p> see the album</p>
+                            <a href="{{ url('/G') }}"><button> See album </button></a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-        <div class="nine columns">
-            <div class="coverflow top10 bot10">
-                <a class="prev-arrow"></a>
-                <a href=""><img src="{{ url('frontend/img/Events/W1.png') }}" class="coverflow__image" /></a>
-                <a href=""><img src="{{ url('frontend/img/Events/G1.png') }}" class="coverflow__image" /></a>
-                <a href=""><img src="{{ url('frontend/img/Events/latest.png') }}" class="coverflow__image" /></a>
-                <a href=""><img src="{{ url('frontend/img/Events/C1.png') }}" class="coverflow__image" /></a>
-                <a href=""><img src="{{ url('frontend/img/Events/Ct1.png') }}" class="coverflow__image" /></a>
-                <a class="next-arrow"></a>
+        {{-- second  of 3  --}}
+        <div class="row">
+            <div class="col-lg-4 center" id="pt222">
+                <div class="flip-box">
+                    <div class="flip-box-inner">
+
+                        <a href="{{ url('/I') }}"> <img src="{{ url('frontend/img/Gallery/Imran/1.jpg') }}"
+                                alt="No Event" style="width:300px;height:200px"> </a>
+
+                        <div class="flip-box-back">
+                            <p> see the album</p>
+                            <a href="{{ url('/I') }}"><button> See album </button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 center" id="pt222">
+                <div class="flip-box">
+                    <div class="flip-box-inner">
+
+                        <a href="{{ url('/M') }}"> <img src="{{ url('frontend/img/Gallery/Manpreet/1.jpg') }}"
+                                alt="No Event" style="width:300px;height:200px"> </a>
+
+                        <div class="flip-box-back">
+                            <p> see the album</p>
+                            <a href="{{ url('/M') }}"><button> See album </button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 center" id="pt222">
+                <div class="flip-box">
+                    <div class="flip-box-inner">
+
+                        <a href="{{ url('/K') }}"> <img src="{{ url('frontend/img/Gallery/Micky/1.jpg') }}"
+                                alt="No Event" style="width:300px;height:200px"> </a>
+
+                        <div class="flip-box-back">
+                            <p> see the album</p>
+                            <a href="{{ url('/K') }}"><button> See album </button></a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
+        {{-- third of 3 --}}
+        <div class="row">
+            <div class="col-lg-4 center" id="pt222">
+                <div class="flip-box">
+                    <div class="flip-box-inner">
+
+                        <a href="{{ url('/C') }}"> <img src="{{ url('frontend/img/Gallery/Monica/1.jpg') }}"
+                                alt="No Event" style="width:300px;height:200px"> </a>
+
+                        <div class="flip-box-back">
+                            <p> see the album</p>
+                            <a href="{{ url('/C') }}"><button> See album </button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 center" id="pt222">
+                <div class="flip-box">
+                    <div class="flip-box-inner">
+
+                        <a href="{{ url('/R') }}"> <img src="{{ url('frontend/img/Gallery/Raghav/1.jpg') }}"
+                                alt="No Event" style="width:300px;height:200px"> </a>
+
+                        <div class="flip-box-back">
+                            <p> see the album</p>
+                            <a href="{{ url('/R') }}"><button> See album </button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{-- container closer --}}
     </div>
+    <style>
+        .flip-box-back {
+            background-color: black;
+        }
+    </style>
 @endsection
