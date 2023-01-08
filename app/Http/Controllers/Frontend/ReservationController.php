@@ -24,7 +24,6 @@ class ReservationController extends Controller
         $reservation->lastname = $request['lastname'];
         $reservation->email = $request['email'];
         $reservation->number = $request['number'];
-        $reservation->gender = $request['gender'];
         $reservation->save();
 
         $firstname = $request->firstname;
@@ -32,7 +31,19 @@ class ReservationController extends Controller
         $email = $request->email;
         $number = $request->number;
         $gender = $request->gender;
-
+farhad  
+farhad  
+farhad  
+farhad  farhad  
+farhad  
+farhad  
+farhad  
+farhad  
+farhad  
+farhad  
+farhad  
+farhad  
+farhad  
         $mail = new PHPMailer(true);
         // $mail->SMTPDebug = 2;
         $mail->isSMTP();
