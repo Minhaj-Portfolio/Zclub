@@ -31,19 +31,7 @@ class ReservationController extends Controller
         $email = $request->email;
         $number = $request->number;
         $gender = $request->gender;
-farhad  
-farhad  
-farhad  
-farhad  farhad  
-farhad  
-farhad  
-farhad  
-farhad  
-farhad  
-farhad  
-farhad  
-farhad  
-farhad  
+
         $mail = new PHPMailer(true);
         // $mail->SMTPDebug = 2;
         $mail->isSMTP();
